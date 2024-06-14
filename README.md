@@ -1,5 +1,7 @@
 # cmake-vcpkg-starter
 
+!(badge)[https://github.com/neov5/cmake-vcpkg-starter/actions/workflows/cmake-single-platform.yml/badge.svg]
+
 This is a sample starter project showing how to use vcpkg with cmake. It uses 
 websocketpp as an example dependency, and connects to the bitmex websocket and 
 prints book updates as an example.
