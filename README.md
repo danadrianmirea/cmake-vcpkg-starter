@@ -8,7 +8,7 @@ prints book updates as an example.
 
 ```
 git clone https://github.com/neov5/cmake-vcpkg-starter.git --recurse-submodules && cd cmake-vcpkg-starter
-cmake -B build -S . --prefix debug
+cmake -B build -S . --preset debug
 cd build && make
 ./main
 ```
